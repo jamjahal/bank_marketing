@@ -2,7 +2,7 @@
 
 How to run the code:
 1. Clone the repository.
-```git clone ```
+```git clone https://github.com/sinemypolat/bank_marketing.git```
 
 2. Install the requirements.
 ```pip install pipenv```
