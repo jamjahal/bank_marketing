@@ -2,16 +2,20 @@
 
 How to run the code:
 1. Clone the repository.
+
 ```git clone https://github.com/sinemypolat/bank_marketing.git```
 
 2. Install the requirements.
+
 ```pip install pipenv```
 ```pipenv install```
 
 3. Activate pipenv virtual environment.
+
 ```pipenv shell```
 
 4. Run the code.
+
 ```python main.py```
 
 Command line arguments:
