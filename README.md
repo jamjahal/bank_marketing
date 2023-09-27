@@ -8,6 +8,7 @@ How to run the code:
 2. Install the requirements.
 
 ```pip install pipenv```
+
 ```pipenv install```
 
 3. Activate pipenv virtual environment.
